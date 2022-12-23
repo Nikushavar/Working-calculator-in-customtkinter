@@ -11,7 +11,7 @@ FOR KEYBOARD USERS!
 
 / - divide
 
-"*" - multiply
+* - multiply
 
 ^ - power
 
