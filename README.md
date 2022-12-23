@@ -1,8 +1,20 @@
 For running code you'll need customtkinter library installed, You can install it via cmd prompt, by entering "pip install customtkiner"
 After running the code, it'll look something like this:
 
-![image](https://user-images.githubusercontent.com/115483909/208475110-179ccf4e-eff5-4b9a-a720-87db1a254e42.png)
+![image](https://user-images.githubusercontent.com/115483909/209318991-958524f2-a69c-48bd-a6c3-a20ece15b18a.png)
 
-This calculator can do all basic arithmetic operations, Aswell as: Raising numbers to a certain power and getting square root.
-If you have discovered any bugs/problems with code, feel free to tell me in issues tab, or dm me on discord.
-Thanks for your attention!
+This calculator can be resized as you wish, can do all basic operations, aswell as getting square root of numbers and raising numbers to certain power. You can enter numbers and do operations by clicking buttons via your mouse, or just use your keyboard, both way will work.
+
+FOR KEYBOARD USERS!
+! - clear
+/ - divide
+* - multiply
+^ - power
+% - square root
+= - to get result
+
+Resized calculator in action:
+
+![image](https://user-images.githubusercontent.com/115483909/209319919-6cebbe90-a59d-4986-a43b-d12133e32bda.png)
+
+Thanks for checking it out!
