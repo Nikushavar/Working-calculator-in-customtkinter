@@ -6,12 +6,19 @@ After running the code, it'll look something like this:
 This calculator can be resized as you wish, can do all basic operations, aswell as getting square root of numbers and raising numbers to certain power. You can enter numbers and do operations by clicking buttons via your mouse, or just use your keyboard, both way will work.
 
 FOR KEYBOARD USERS!
+
 ! - clear
+
 / - divide
-* - multiply
+
+"*" - multiply
+
 ^ - power
+
 % - square root
+
 = - to get result
+
 
 Resized calculator in action:
 
