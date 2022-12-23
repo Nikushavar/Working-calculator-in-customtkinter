@@ -24,4 +24,4 @@ Resized calculator in action:
 
 ![image](https://user-images.githubusercontent.com/115483909/209319919-6cebbe90-a59d-4986-a43b-d12133e32bda.png)
 
-Thanks for checking it out!
+Huge thanks to @Akascape for making this project possible, Go and follow him on github if you liked this project.
