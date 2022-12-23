@@ -7,18 +7,18 @@ This calculator can be resized as you wish, can do all basic operations, aswell 
 
 FOR KEYBOARD USERS!
 
-! - clear
+ㅤ  ! - clear
+ 
+ㅤ  / - divide
 
-/ - divide
+ㅤ * - multiply
 
-* - multiply
+ ㅤ ^ - power
 
-^ - power
+ ㅤ % - square root
 
-% - square root
-
-= - to get result
-
+ ㅤ = - to get result
+  
 
 Resized calculator in action:
 
